@@ -1,0 +1,4 @@
+method_name,reliability_weight,weight_scheme
+Entropy,0.3196367027222334,workbook_reported
+WASPAS,0.339885275434575,workbook_reported
+PROMETHEE,0.3404780218431917,workbook_reported

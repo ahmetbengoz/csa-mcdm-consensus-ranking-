@@ -1,0 +1,8 @@
+{
+  "dataset_name": "CSA_Supplementary_Illustrative",
+  "n_alternatives": 151,
+  "n_main_criteria": 14,
+  "n_subcriteria": 55,
+  "normalization_default": "minmax_by_subcriterion",
+  "notes": "Processed inputs built directly from workbook sheets."
+}

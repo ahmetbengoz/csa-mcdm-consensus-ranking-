@@ -1,0 +1,15 @@
+main_code,main_name,main_type,main_weight,main_weight_source,is_final_frozen
+C1,C1,hierarchical_main_criterion,0.11,Criteria_Weights.AbsWeight aggregation,1
+C10,C10,hierarchical_main_criterion,0.07,Criteria_Weights.AbsWeight aggregation,1
+C11,C11,hierarchical_main_criterion,0.04,Criteria_Weights.AbsWeight aggregation,1
+C12,C12,hierarchical_main_criterion,0.04,Criteria_Weights.AbsWeight aggregation,1
+C13,C13,hierarchical_main_criterion,0.02,Criteria_Weights.AbsWeight aggregation,1
+C14,C14,hierarchical_main_criterion,0.01,Criteria_Weights.AbsWeight aggregation,1
+C2,C2,hierarchical_main_criterion,0.12,Criteria_Weights.AbsWeight aggregation,1
+C3,C3,hierarchical_main_criterion,0.1,Criteria_Weights.AbsWeight aggregation,1
+C4,C4,hierarchical_main_criterion,0.09,Criteria_Weights.AbsWeight aggregation,1
+C5,C5,hierarchical_main_criterion,0.1,Criteria_Weights.AbsWeight aggregation,1
+C6,C6,hierarchical_main_criterion,0.08,Criteria_Weights.AbsWeight aggregation,1
+C7,C7,hierarchical_main_criterion,0.1,Criteria_Weights.AbsWeight aggregation,1
+C8,C8,hierarchical_main_criterion,0.07,Criteria_Weights.AbsWeight aggregation,1
+C9,C9,hierarchical_main_criterion,0.05,Criteria_Weights.AbsWeight aggregation,1
