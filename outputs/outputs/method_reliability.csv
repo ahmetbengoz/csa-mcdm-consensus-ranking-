@@ -1,0 +1,4 @@
+Method,RelWeight,weight_sum_total,weight_sum_ok
+Entropy,0.3196367027222334,1.0,True
+WASPAS,0.339885275434575,1.0,True
+PROMETHEE,0.3404780218431917,1.0,True

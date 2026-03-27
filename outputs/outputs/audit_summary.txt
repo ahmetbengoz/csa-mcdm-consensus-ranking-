@@ -1,0 +1,15 @@
+AUDIT SUMMARY
+==================================================
+n_main_criteria: 14
+n_subcriteria: 55
+abs_weight_total: 0.9999999999999999
+abs_weight_total_ok: True
+n_alternatives: 151
+n_subcriteria_columns: 55
+score_min: 0.0001030608836941477
+score_max: 0.725020994357903
+score_missing: 0
+method_reliability_sum: 1.0
+rmse_rows: 3
+spearman_rows: 3
+first_csi_numeric_value: 0.7909933774834437
