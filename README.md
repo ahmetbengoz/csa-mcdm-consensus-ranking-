@@ -107,7 +107,7 @@ Main manuscript mapping
 
 Minimal execution examples
 python scripts/audit_now.py --xlsx "data/raw/CSA_Supplementary_Illustrative.xlsx" --outdir "outputs/audit_now"
-python scripts/build_inputs_now.py --xlsx "data/raw/CSA_Supplementary_Illustrative.xlsx" --outdir "data/processed"
+python scripts/build_inputs_now.py --xlsx "data/raw/CSA_Supplementary_Illustrative.xlsx" --outdir "processed/"
 python scripts/extract_results_now.py --xlsx "data/raw/CSA_Supplementary_Illustrative.xlsx" --outdir "outputs/core_now"
 python scripts/compute_baselines_now.py --corecsv "outputs/core_now/core_method_outputs.csv" --outdir "outputs/baselines_now"
 python scripts/robustness_now.py --corecsv "outputs/core_now/core_method_outputs.csv" --outdir "outputs/robustness_now"
