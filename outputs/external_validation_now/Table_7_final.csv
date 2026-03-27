@@ -1,0 +1,6 @@
+dataset,domain,n_alternatives,n_criteria_proxy,spearman_vs_csa,kendall_vs_csa,top10_overlap_with_csa,mean_rank_shift,max_rank_shift,performance_note
+Reported-weight consensus,internal_validation,151,3,0.999606134541652,0.9878145695364239,9,0.7947019867549668,3.0,Reference configuration.
+Equal-weight consensus,internal_validation,151,3,0.9994527710003485,0.9853421633554084,9,0.9403973509933775,4.0,Tests whether CSA materially differs from non-reliability weighting.
+Reported-weight minmax consensus,internal_validation,151,3,0.9887730916695712,0.9171743929359824,8,4.6092715231788075,30.0,Tests normalization sensitivity under a fully score-normalized alternative.
+Entropy-favoring consensus,internal_validation,151,3,0.9947821540606482,0.9427814569536425,8,3.205298013245033,14.0,Stress test favoring Entropy-derived information.
+PROMETHEE-favoring consensus,internal_validation,151,3,0.9993691181596375,0.9833995584988962,10,1.099337748344371,5.0,Stress test favoring PROMETHEE-derived information.
