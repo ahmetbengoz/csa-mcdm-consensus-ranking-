@@ -1,0 +1,3 @@
+aggregation_rule,spearman_vs_csa,kendall_vs_csa,top3_overlap_with_csa
+Borda Count,0.9642857142857145,0.9047619047619049,3
+Mean normalized score,1.0,1.0,3

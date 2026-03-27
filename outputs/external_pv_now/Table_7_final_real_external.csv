@@ -1,0 +1,2 @@
+dataset,domain,n_alternatives,n_criteria,spearman_borda_vs_csa,spearman_mean_score_vs_csa,top3_borda_overlap,top3_mean_score_overlap,performance_note
+"PV technologies (Kaur et al., 2025)",renewable_energy,7,10,0.9642857142857145,1.0,3,3,Cross-domain external validation on an open renewable-energy decision matrix.
